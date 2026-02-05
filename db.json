@@ -1,0 +1,39 @@
+{
+  "attendees": [
+    {
+      "id": 1,
+      "name": "manka",
+      "email": "mankaharet48@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "suleqa nasir",
+      "email": "suleqa@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "nasra delow",
+      "email": "nasra@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Abdiawalmohamud",
+      "email": "Abdiawalmohamud@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Issa Abdi",
+      "email": "issa23@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Abdiladif mohamed",
+      "email": "abdiladif34@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "hafsa bile",
+      "email":"hafsabile43@gmail.com"
+    }
+  ]
+}
